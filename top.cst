@@ -1,0 +1,2 @@
+IO_LOC "clk" 52;
+IO_LOC "led" IOL26B;	# PIN16 IOL26B LED6
