@@ -17,5 +17,10 @@ make clean  # 中間ファイル削除
 
 ## ピン割り当て
 
-- `clk`: A9 (27MHz クロック)
-- `led`: L4 (LED)
+- `clk`: PIN52 (27MHz クロック)
+- `led1`: PIN10
+- `led2`: PIN11
+- `led3`: PIN13
+- `led4`: PIN14
+- `led5`: PIN15
+- `led6`: PIN16
